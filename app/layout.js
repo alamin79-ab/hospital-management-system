@@ -4,8 +4,8 @@ import Header from '@/components/Header'
 import { AuthProvider } from '@/context/AuthContext'
 
 export const metadata = {
-  title: 'Barrah Rilwan Hospital Management System',
-  description: 'Hospital Management System',
+  title: 'Barrah Rilwan Specialist Hospital Management System',
+  description: 'Hospital Management System for Barrah Rilwan Specialist Hospital',
 }
 
 export default function RootLayout({ children }) {
